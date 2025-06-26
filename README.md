@@ -1,2 +1,2 @@
-# Meus-Projetos
-Meus projetos do curso da alura
+# Projeto-Alura-Plus
+Projeto do Alura Plus
